@@ -5,4 +5,6 @@ def my_select(collection)
  
  
  
+  end
+  return new_array
 end
